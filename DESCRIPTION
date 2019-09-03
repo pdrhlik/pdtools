@@ -1,0 +1,14 @@
+Package: pdtools
+Type: Package
+Title: My analytics tools
+Version: 0.1.0
+Authors@R: person("Patrik", "Drhlik", email = "patrik.drhlik@gmail.com", role = c("aut", "cre"))
+Description: Set of different analytics tools.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    lubridate,
+    dplyr,
+    rlang
+RoxygenNote: 6.1.1
